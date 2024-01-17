@@ -1,31 +1,6 @@
 {
-	languages": {
-		"th": "Thai",
-		"el": "Greek",
-		"fi": "Suomi",
-		"ar": "Arabic",
-		"de": "German",
-		"fr": "French",
-		"da": "Danish",
-		"en": "English",
-		"es": "Spanish",
-		"ca": "Catalan",
-		"ru": "Russian",
-		"it": "Italian",
-		"tr": "Turkish",
-		"zh": "Chinese",
-		"ja": "Japanese",
-		"ro": "Romanian",
-		"no": "Norwegian",
-		"va": "Valencian",
-		"pt": "Portuguese",
-		"eo": "Esparanto",
-		"ga": "Galician",
-		"sv": "Swedish",
-		"ko": "Korean",
-		"pl": "Polish",
-		"nl": "Dutch",
-		"cy": "Welsh"
+	
+		
 	},
 	"voices": {
         "eric": {
@@ -3327,6 +3302,34 @@
 			"source": "voiceforge",
 			"arg": "Marta",
 			"desc": "Marta"
-		}
+	          }
+	},
+	"languages": {
+		"th": "Thai",
+		"el": "Greek",
+		"fi": "Suomi",
+		"ar": "Arabic",
+		"de": "German",
+		"fr": "French",
+		"da": "Danish",
+		"en": "English",
+		"es": "Spanish",
+		"ca": "Catalan",
+		"ru": "Russian",
+		"it": "Italian",
+		"tr": "Turkish",
+		"zh": "Chinese",
+		"ja": "Japanese",
+		"ro": "Romanian",
+		"no": "Norwegian",
+		"va": "Valencian",
+		"pt": "Portuguese",
+		"eo": "Esparanto",
+		"gl": "Galician",
+		"sv": "Swedish",
+		"ko": "Korean",
+		"pl": "Polish",
+		"nl": "Dutch",
+		"cy": "Welsh"
 	}
 }
